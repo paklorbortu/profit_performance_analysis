@@ -12,10 +12,10 @@ needed to meet or exceed the average profit target of $24,133.86.
 - Apply accounting prudence by modeling conservative profit scenarios.
 
 ## 📂 Files
-- report.pdf – Final project report, including methodology, formulas, and visualizations.
-- data.csv – Cleaned and transformed dataset used for analysis and dashboarding.
-- powerbi_dashboard.pbix – Power BI file containing interactive visualizations. 
-- raw_data.xlsx – Original dataset with formatting issues and raw values. 
+- `report.pdf` – Final project report, including methodology, formulas, and visualizations.
+- `data.csv` – Cleaned and transformed dataset used for analysis and dashboarding.
+- `powerbi_dashboard.pbix` – Power BI file containing interactive visualizations. 
+- `raw_data.xlsx` – Original dataset with formatting issues and raw values. 
 
 ## 🛠️ Tools & Technologies
 - Excel – Data cleaning, transformation, formula-based analysis
